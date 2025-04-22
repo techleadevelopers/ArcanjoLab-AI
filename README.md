@@ -1,5 +1,5 @@
 
-# 🧪 LAB DE SIMULAÇÃO – OPERAÇÃO SPECTRE GHOST (MVP1)
+# 🧪 LAB DE SIMULAÇÃO – LABORÁTORIO ARCANJO AI (MVP1)
 ## 💀 Ameaças Avançadas com IA para Defesa, Pentest e Engenharia Reversa
 
 ---
