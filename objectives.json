@@ -1,0 +1,39 @@
+{
+    "targets": [
+      "192.168.0.191",
+      "170.231.158.60",
+      "177.89.184.186"
+
+    ],
+    "goals": [
+      {
+        "goal": "Coletar senhas armazenadas localmente (navegadores, WinCred, 1Password)",
+        "priority": "alta"
+      },
+      {
+        "goal": "Dump de sessionStorage e cookies de navegadores",
+        "priority": "alta"
+      },
+      {
+        "goal": "Extrair tokens de autenticação (Discord, Slack, GitHub, AWS)",
+        "priority": "alta"
+      },
+      {
+        "goal": "Identificar e extrair frases-semente de cripto wallets (MetaMask, Electrum, Exodus)",
+        "priority": "alta"
+      },
+      {
+        "goal": "Coletar documentos confidenciais (.docx, .pdf, .xls, .pptx)",
+        "priority": "média"
+      },
+      {
+        "goal": "Mapear serviços ativos na máquina e verificar presença de ferramentas de segurança",
+        "priority": "média"
+      },
+      {
+        "goal": "Persistir silenciosamente para execução futura (schtasks, runonce, WMI)",
+        "priority": "média"
+      }
+    ]
+  }
+  

@@ -1,0 +1,45 @@
+[
+  {
+    "ip": "192.168.0.191",
+    "os": "Windows 10",
+    "ram_gb": 16,
+    "antivirus": "Defender",
+    "http_title": "unknown",
+    "reachable": true,
+    "open_ports": [
+      139,
+      445,
+      8080
+    ],
+    "is_virtualized": true,
+    "score": 8.0
+  },
+  {
+    "ip": "170.231.158.60",
+    "os": "Windows 11",
+    "ram_gb": 32,
+    "antivirus": "Kaspersky",
+    "http_title": ".::Welcome to the Web-Based Configurator",
+    "reachable": true,
+    "open_ports": [
+      80
+    ],
+    "is_virtualized": false,
+    "score": 10.0
+  },
+  {
+    "ip": "177.89.184.186",
+    "os": "Windows 11",
+    "ram_gb": 8,
+    "antivirus": "None",
+    "http_title": "unknown",
+    "reachable": true,
+    "open_ports": [
+      21,
+      22,
+      80
+    ],
+    "is_virtualized": false,
+    "score": 6.0
+  }
+]
